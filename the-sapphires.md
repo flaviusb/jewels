@@ -11,7 +11,7 @@ The arts that teach the Sapphire Krieg are Qin Na and Rondel Dagger.
 
 #Angle
 
-The arts that teaches the Sapphire Angle are One Step and Three Step.
+The arts that teach the Sapphire Angle are One Step and Three Step.
 
 #Timing
 
