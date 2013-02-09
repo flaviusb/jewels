@@ -1,3 +1,6 @@
+Parts of a fight
+================
+
 #Krieg
 'Krieg' comes from the German school of medieval swordsmanship, and originally referred to a distance and the concomitant realities. Within Krieg there is no need to close, and there is no time for conscious thought. The Sapphire Krieg is speed chess.
 
