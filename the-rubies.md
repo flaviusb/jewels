@@ -42,3 +42,21 @@ Soft hand grab and pull (to break energy or an arm).
 #Breathing
 
 #Shouting
+
+#Ki
+
+By 'Ki', here I mean energy that is 'form-like'. 'Breaking' Ki shatters apart as the form stops existing; for example, one of the techniques of uprooting someone is to break their root.
+
+'Bent' arms.
+
+'Bent' legs.
+
+Immovable body.
+
+Arms like logs submerged in icy water.
+
+Roots.
+
+#Chi
+
+By 'Chi' here I mean energy that is raised, moved around, purified, manipulated as a thing itself, projected, seized, absorbed, and dispersed. 'Breaking' Chi is simply a shorthand for talking about blocking or diverting the flow; it is not strictly a manipulation of Chi, but rather a manipulation of the channels the Chi flows through.
