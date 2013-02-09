@@ -16,3 +16,9 @@ Principles
 - Strike from anger
 
 - Strike from stillness
+
+- Strike from playfulness
+
+- Strike from joy
+
+- Strike from duty
