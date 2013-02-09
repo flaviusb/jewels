@@ -13,7 +13,7 @@ The Sapphires are Krieg, Closing, Opening, Distance, Angle, Timing, Crispness, U
 
 The Rubies are kinds of individual things a fighter does. That is, each ruby is a family of related individual techniques. These techniques are simple, rather than the complexity of the Amythysts - they are to be used simultaneously or pervasively, rather than sequentially like a unique key fitting into a lock.
 
-The Rubies are Walking, Falling, Striking, Breathing and Shouting.
+The Rubies are Walking, Falling, Striking, Breathing, Shouting, Ki and Chi.
 
 ##The Amythysts
 
