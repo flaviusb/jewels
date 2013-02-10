@@ -12,6 +12,9 @@ The arts that teach Krieg are Qin Na and Rondel Dagger.
 #Opening
 'Opening' is creating a gap in an opponents guard which can be exploited. Very simple, obvious examples of openings from Western Swordplay are called Beats, which are blows designed to move the opponent's sword out of line so that defence as such becomes impossible.
 
+#Fence
+The Fence is the edge of your reach; an opponent usually has to cross it to get into Krieg, and has to break it if they fight from outside of Krieg. The Fence is both a guard and a threat; crossing a capable fence should feel like you are threading your way through a wall of knives which keep their points to you.
+
 #Distance
 
 #Angle
