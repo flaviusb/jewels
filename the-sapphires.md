@@ -38,6 +38,10 @@ The arts that teach Komi are Triangular Pyramid Pushing Hands, and No-Contact Th
 #Speed
 
 #Power
+Power is not just plain strength; many of the techniques to build strength in the modern day do not build power. Deep power takes a very long time to gain, but is with you even as an old person or someone who is injured or unfit. It is in a large sense neuromuscular rather than just muscular, and is also to do with not building up muscles that act against each other, and learning how to let your muscles work with the least wasted strength.
+
+The arts that teach Power are Deep Stance Exaggerated Repetitive Drills, Performing Rubies and to a lesser extent Amethysts with and then without different forms of isometrics, and Sinking-Striking drills.
+
 
 #Dexterity
 
