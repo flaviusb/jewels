@@ -7,8 +7,10 @@ Parts of a fight
 The arts that teach Krieg are Qin Na and Rondel Dagger.
 
 #Closing
+'Closing' is moving from outside of the threat range to inside the threat range, getting past the fence any capable opponent should be able to erect.
 
 #Opening
+'Opening' is creating a gap in an opponents guard which can be exploited. Very simple, obvious examples of openings from Western Swordplay are called Beats, which are blows designed to move the opponent's sword out of line so that defence as such becomes impossible.
 
 #Distance
 
@@ -17,12 +19,15 @@ The arts that teach Krieg are Qin Na and Rondel Dagger.
 The arts that teach Angle are One Step and Three Step.
 
 #Timing
+Timing is two distinct looking things: one is being able to speed up or slow down so that an opponent will 'parry themselves', while the other is being able to wait in stillness until the moment that an opponent moves out of position, loses focus, or otherwise becomes vulnerable. The first is a matter of seeing a fight in four dimensions, while the second is a matter of focus and stillness, though ultimately they seem to spring from the same root.
 
 #Crispness
+Crispness is the precision and exactness with which your actions match up to forms; in a large sense, Crispness is strongly related to your ability to use Ki.
 
 The arts that teach Crispness are Long Patterns and Singular Patterns.
 
 #Uncrispiness
+Uncrispness is deviation from form in small, precise ways in order to jam up an opponent or prevent their Ki from being able to interlock with your own or indeed with their own.
 
 #Rhythm
 
@@ -36,6 +41,7 @@ The arts that teach Komi are Triangular Pyramid Pushing Hands, and No-Contact Th
 #Balance
 Balance gives you fine control over your motion and the application of power. It is what lets you pivot, turn, or rapidly reverse direction. It encompasses both rootedness and springiness, both being straight and being bent. It is what provides you with an axis, and what lets you chose between several axes rather than being stuck with an implicit one that the forms you have learnt happen to be built around.
 
+The arts that teach Balance are the moving stance drills, tkd bouncing footwork drills with kicks, and exagerrated Amethyst drills of patterns of Amethysts that deliver power in different ways.
 
 #Speed
 Speed is basically just a matter of myelin, fast twitch muscle, reacting to things before they happen, and removing the separation between will and action. As such, there are four kinds of things you need to do to develop speed. 'Myelin' is developed through spaced repetition of sets and reaches, and short feedback loops with tightened parameters. Fast twitch muscle is developed through sprinting and speed play. Reacting to things before they happen is developed through switching up random situation drills. Removing the separation between will and action is (this bit is hard to explain - mindfulness exercises with painful interruptions?).
