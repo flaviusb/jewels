@@ -2,9 +2,9 @@ Parts of a fight
 ================
 
 #Krieg
-'Krieg' comes from the German school of medieval swordsmanship, and originally referred to a distance and the concomitant realities. Within Krieg there is no need to close, and there is no time for conscious thought. The Sapphire Krieg is speed chess.
+'Krieg' comes from the German school of medieval swordsmanship, and originally referred to a distance and the concomitant realities. Within Krieg there is no need to close, and there is no time for conscious thought. Krieg is like speed chess.
 
-The arts that teach the Sapphire Krieg are Qin Na and Rondel Dagger.
+The arts that teach Krieg are Qin Na and Rondel Dagger.
 
 #Closing
 
@@ -14,13 +14,13 @@ The arts that teach the Sapphire Krieg are Qin Na and Rondel Dagger.
 
 #Angle
 
-The arts that teach the Sapphire Angle are One Step and Three Step.
+The arts that teach Angle are One Step and Three Step.
 
 #Timing
 
 #Crispness
 
-The arts that teach the Sapphire Crispness are Long Patterns and Singular Patterns.
+The arts that teach Crispness are Long Patterns and Singular Patterns.
 
 #Uncrispiness
 
@@ -29,7 +29,7 @@ The arts that teach the Sapphire Crispness are Long Patterns and Singular Patter
 #Komi
 'Komi' is the ability to get into your opponents head and predict their actions, or to condition them so that they will take a certain action when you trigger them.
 
-The art that teaches Komi is Triangular Pyramid Pushing Hands.
+The arts that teach Komi are Triangular Pyramid Pushing Hands, and No-Contact Throws.
 
 #Tactility
 
