@@ -34,8 +34,11 @@ The arts that teach Komi are Triangular Pyramid Pushing Hands, and No-Contact Th
 #Tactility
 
 #Balance
+Balance gives you fine control over your motion and the application of power. It is what lets you pivot, turn, or rapidly reverse direction. It encompasses both rootedness and springiness, both being straight and being bent. It is what provides you with an axis, and what lets you chose between several axes rather than being stuck with an implicit one that the forms you have learnt happen to be built around.
+
 
 #Speed
+Speed is basically just a matter of myelin, fast twitch muscle, reacting to things before they happen, and removing the separation between will and action. As such, there are four kinds of things you need to do to develop speed. 'Myelin' is developed through spaced repetition of sets and reaches, and short feedback loops with tightened parameters. Fast twitch muscle is developed through sprinting and speed play. Reacting to things before they happen is developed through switching up random situation drills. Removing the separation between will and action is (this bit is hard to explain - mindfulness exercises with painful interruptions?).
 
 #Power
 Power is not just plain strength; many of the techniques to build strength in the modern day do not build power. Deep power takes a very long time to gain, but is with you even as an old person or someone who is injured or unfit. It is in a large sense neuromuscular rather than just muscular, and is also to do with not building up muscles that act against each other, and learning how to let your muscles work with the least wasted strength.
