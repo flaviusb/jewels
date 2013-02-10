@@ -34,7 +34,7 @@ Uncrispness is deviation from form in small, precise ways in order to jam up an 
 #Komi
 'Komi' is the ability to get into your opponents head and predict their actions, or to condition them so that they will take a certain action when you trigger them.
 
-The arts that teach Komi are Triangular Pyramid Pushing Hands, and No-Contact Throws.
+The arts that teach Komi are Triangular Pyramid Pushing Hands, No-Contact Throws, and 'Why are you hitting yourself?'.
 
 #Tactility
 
