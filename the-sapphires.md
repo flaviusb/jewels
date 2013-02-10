@@ -43,5 +43,9 @@ The art that teaches Komi is Triangular Pyramid Pushing Hands.
 
 #Fluidity
 
-#Killing intent
+#Killing Intent
+'Killing Intent' is more than simply the willingness to kill; having killing intent, one will grasp at any opportunity to kill your enemy without hesitation it is true, but it is much more even then that. Killing intent means having no filters or boundaries in your mind that make thoughts unthinkable, and not flinching from painful thoughts. You have to be able to accept the possibility of your own death without flinching, and be able to see every way that you could effectively act within the conflict in order to realistically estimate the best course of action in a situation that may turn deadly. This may not involve killing; if one is possessed of Killing Intent one will swallow pride and allow a painful humiliating defeat in order to avoid escalation or harm to a loved one or bystander if that is the best outcome you can calculate.
 
+As I am more merciful than my teachers, I will give no details of the ancient methods for learning Killing Intent, and my art does not use them.
+
+The art that teaches Killing Intent involves visualisation exercises, guided discussions, and the application of enough psychic pressure by the teacher to very carefully fracture the student's mind repeatedly, though I shall write no more about it.
