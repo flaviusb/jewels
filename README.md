@@ -11,13 +11,13 @@ The Sapphires are Krieg, Closing, Opening, Distance, Angle, Timing, Crispness, U
 
 ##The Rubies
 
-The Rubies are kinds of individual things a fighter does. That is, each ruby is a family of related individual techniques. These techniques are simple, rather than the complexity of the Amythysts - they are to be used simultaneously or pervasively, rather than sequentially like a unique key fitting into a lock.
+The Rubies are kinds of individual things a fighter does. That is, each ruby is a family of related individual techniques. These techniques are simple, rather than the complexity of the Amethysts - they are to be used simultaneously or pervasively, rather than sequentially like a unique key fitting into a lock.
 
 The Rubies are Walking, Falling, Striking, Breathing, Shouting, Ki and Chi.
 
-##The Amythysts
+##The Amethysts
 
-The Amythysts are complex movements which can be used to fit together like a jigsaw, or inserted like a key into the correct space in a fight. They usually use the whole body, from stance through to fine position of limbs.
+The Amethysts are complex movements which can be used to fit together like a jigsaw, or inserted like a key into the correct space in a fight. They usually use the whole body, from stance through to fine position of limbs.
 
 ##The Emeralds
 
