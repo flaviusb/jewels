@@ -2,9 +2,9 @@ Parts of a fight
 ================
 
 #Krieg
-'Krieg' comes from the German school of medieval swordsmanship, and originally referred to a distance and the concomitant realities. Within Krieg there is no need to close, and there is no time for conscious thought. Krieg is like speed chess.
+The idea of 'Krieg' is adapted from the German school of medieval swordsmanship. It refers to the fighting that can only occur significantly inside the fence, but not grappling as such. Within Krieg there is no need to close, and there is no time for conscious thought. Krieg feels like how you might imaging speed chess, but it is actually more like speed trumps.
 
-The arts that teach Krieg are Qin Na and Rondel Dagger.
+The arts that teach Krieg are modified Qin Na and Rondel Dagger.
 
 #Closing
 'Closing' is moving from outside of the threat range to inside the threat range, getting past the fence any capable opponent should be able to erect.
