@@ -2,18 +2,20 @@ Parts of a fight
 ================
 
 #Krieg
-The idea of 'Krieg' is adapted from the German school of medieval swordsmanship. It refers to the fighting that can only occur significantly inside the fence, but not grappling as such. Within Krieg there is no need to close, and there is no time for conscious thought. Krieg feels like how you might imaging speed chess, but it is actually more like speed trumps.
+The idea of 'Krieg' is adapted from the German school of medieval swordsmanship. It refers to the fighting that can only occur inside the inner Fence. Within Krieg there is no need to close, and there is no time for conscious thought. Krieg feels like how you might imaging speed chess, but it is actually more like speed trumps.
 
 The arts that teach Krieg are modified Qin Na and Rondel Dagger.
 
 #Closing
-'Closing' is moving from outside of the threat range to inside the threat range, getting past the fence any capable opponent should be able to erect.
+'Closing' is moving from outside of the threat range to inside the threat range, getting past the outer fence any capable opponent should be able to erect.
 
 #Opening
-'Opening' is creating a gap in an opponents guard which can be exploited. Very simple, obvious examples of openings from Western Swordplay are called Beats, which are blows designed to move the opponent's sword out of line so that defence as such becomes impossible.
+'Opening' is creating a gap in an opponents guard which can be exploited. Very simple, obvious examples of openings from Western Swordplay are called Beats, which are blows designed to move the opponent's sword out of line so that defence as such becomes impossible. Opening is what allows striking across the inner Fence.
 
 #Fence
-The Fence is the edge of your reach; an opponent usually has to cross it to get into Krieg, and has to break it if they fight from outside of Krieg. The Fence is both a guard and a threat; crossing a capable fence should feel like you are threading your way through a wall of knives which keep their points to you.
+There are two Fences; the outermost Fence is the edge of your reach; an opponent has to cross this no matter what. The inner Fence is what seperates Opening from Krieg; Opening is striking from outside the inner Fence, wheras Krieg is fighting from inside the inner Fence. The Fence is both a guard and a threat, as it has both a physical and a psychological aspect; attempting to cross a capable fence should feel like you are threading your way through a wall of knives which keep their points to you.
+
+The art that teaches Fence is Clinging Death Hands.
 
 #Distance
 
