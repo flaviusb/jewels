@@ -1,3 +1,5 @@
+May contain information hazards. Trigger warning: violence, cannibalism, occultism, etc.
+
 The Art
 -------
 
@@ -7,7 +9,7 @@ The Art is like a collection of jewels. Each type of jewel corresponds to a diff
 
 The Sapphires are the parts of a fight. If you were to analyse a fight, talking about phases or dominating aspects, those are the Sapphires. If you were to analyse a fighter, talking about essence rather than technique or movements, that is also the Sapphires.
 
-The Sapphires are Krieg, Closing, Opening, Fence, Distance, Angle, Timing, Crispness, Uncrispiness, Rhythm, Komi, Tactility, Balance, Speed, Power, Dexterity, Fluidity, and Killing Intent.
+The Sapphires are Krieg, Closing, Opening, Fence, Distance, Angle, Timing, Crispness, Uncrispness, Rhythm, Komi, Tactility, Balance, Speed, Power, Dexterity, Fluidity, and Killing Intent.
 
 ##The Rubies
 
