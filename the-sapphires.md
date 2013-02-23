@@ -9,6 +9,8 @@ The arts that teach Krieg are modified Qin Na and Rondel Dagger.
 #Closing
 'Closing' is moving from outside of the threat range to inside the threat range, getting past the outer fence any capable opponent should be able to erect.
 
+The arts that teach Closing are reciprocial closing striking drills.
+
 #Opening
 'Opening' is creating a gap in an opponents guard which can be exploited. Very simple, obvious examples of openings from Western Swordplay are called Beats, which are blows designed to move the opponent's sword out of line so that defence as such becomes impossible. Opening is what allows striking across the inner Fence.
 
