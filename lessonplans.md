@@ -65,3 +65,16 @@ Heavy-light walking.
 10 mins.
 Deathkick walking.
 
+---
+
+Stances + Amethysts
+  For the stances, we did some basic Ki exercises to do with keeping forms, and some Chi and Balance development exercises to do with stance changes
+- Horse   -> Punching
+- Bow     -> Eagle claw deflect and crush
+  Side track: teaching two basic grabs - Eagle Claw and Soft/Ghost Hands.
+  Teaching the concept of an 'active, relaxed grab', and demonstrated some grab counters and breaks
+  Side track: Teaching Ki aspect to Soft/Ghost Hands. Exercise was bent arm rotations/walking while swinging a giant two handed sword in overhead strikes.
+- Forward -> Swirling hammer fists
+
+
+Tai Chi Style Pushing Hands
