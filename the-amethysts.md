@@ -13,7 +13,7 @@ Spiralling dragon strike.
 
 Circling dragon grasping a crystal ball.
 
-Cross body speahand side block to twist puch.
+Cross body spearhand side block to twist puch.
 
 Lazy two handed snake curving block/strikes, in variations.
 
