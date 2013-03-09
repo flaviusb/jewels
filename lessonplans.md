@@ -78,3 +78,35 @@ Stances + Amethysts
 
 
 Tai Chi Style Pushing Hands
+
+---
+
+Tai Chi Style Pushing Hands
+
+Clinging death style pushing hands
+
+First into to Krieg: Wing Chun Style pushing hands
+
+Dragon striking
+
+Quick aside about distance - the distance many people seem to train at is one that you should *never* stay at in a fight. This translates into bad fight choreography.
+
+Quick aside about folk wrestling and traps.
+
+Quick aside about Eagle Claw and the 108 methods.
+
+Power:
+
+Sinking Striking.
+
+The first simple form.
+
+Quick aside about the history of Taegukk, and how it snakeified into Taekwondo.
+
+Explosive power.
+
+Body like a whip.
+
+More Dragon Striking.
+
+Hung Gar and Wing Chun Forearm exercises.
