@@ -87,6 +87,10 @@ Clinging death style pushing hands
 
 First into to Krieg: Wing Chun Style pushing hands
 
+Aside: Iron Plum Fist Style pushing hands - extreme close range, elbows and throat crushing, close guard.
+
+(This is where we got up to before the session had to stop)
+
 Dragon striking
 
 Quick aside about distance - the distance many people seem to train at is one that you should *never* stay at in a fight. This translates into bad fight choreography.
@@ -96,6 +100,14 @@ Quick aside about folk wrestling and traps.
 Quick aside about Eagle Claw and the 108 methods.
 
 Power:
+
+'Sufficient' power.
+
+Inevitable power.
+
+Explosive power.
+
+Psychopathic hate power - don't use this, it is stupid. Brief aside about the Dark Stance.
 
 Sinking Striking.
 
@@ -110,3 +122,11 @@ Body like a whip.
 More Dragon Striking.
 
 Hung Gar and Wing Chun Forearm exercises.
+
+Explanation of isometric exercise.
+
+Explanation of 'Iron Wire' forms - both a form of magical training and of mundane exercise.
+
+My Iron Wire Form.
+
+

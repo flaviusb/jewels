@@ -9,6 +9,16 @@ Guarding The Lesser Door
 
 Circle Walking
 
+Heavy-light walking.
+
+Deathkick walking.
+
+Blade walking.
+
+Cat-Unicorn walking.
+
+Cat-3/2 walking.
+
 #Falling
 
 Rolls
