@@ -89,15 +89,15 @@ First into to Krieg: Wing Chun Style pushing hands
 
 Aside: Iron Plum Fist Style pushing hands - extreme close range, elbows and throat crushing, close guard.
 
-(This is where we got up to before the session had to stop)
+(This is where we got up to before the session had to stop - we split the rest off into another session)
 
-Dragon striking
+(We did not cover this) Dragon striking
 
 Quick aside about distance - the distance many people seem to train at is one that you should *never* stay at in a fight. This translates into bad fight choreography.
 
-Quick aside about folk wrestling and traps.
+(We did not cover this) Quick aside about folk wrestling and traps.
 
-Quick aside about Eagle Claw and the 108 methods.
+(We did not cover this) Quick aside about Eagle Claw and the 108 methods.
 
 Power:
 
@@ -109,17 +109,19 @@ Explosive power.
 
 Psychopathic hate power - don't use this, it is stupid. Brief aside about the Dark Stance.
 
+Grabbing training.
+
 Sinking Striking.
 
 The first simple form.
 
-Quick aside about the history of Taegukk, and how it snakeified into Taekwondo.
+(We did not cover this) Quick aside about the history of Taegukk, and how it snakeified into Taekwondo.
 
 Explosive power.
 
-Body like a whip.
+(We did not cover this) Body like a whip.
 
-More Dragon Striking.
+(We did not cover this) More Dragon Striking.
 
 Hung Gar and Wing Chun Forearm exercises.
 
@@ -127,6 +129,6 @@ Explanation of isometric exercise.
 
 Explanation of 'Iron Wire' forms - both a form of magical training and of mundane exercise.
 
-My Iron Wire Form.
+(We did not cover this) My Iron Wire Form.
 
-
+Bone hardening - both forearm and shin bone conditioning.
