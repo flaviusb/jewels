@@ -70,11 +70,17 @@ Major types of power:
     Dynamic tension, pivoting along an axis. Generated in the 'roots' and the 'axis', expressed through the axis.
 - Sinking
     Uses the lowering of the center of gravity in synch with breath and movement; power is generated in the hara and expressed anywhere.
-- Heavy/Dead
+- Heavy (Deadweight)
     Uses the pure deadweight of ...
-- Heavy/Like a log submerged in cold water
 - Explosive
     No axis. Entire body, complex movement, split second timing of all muscles.
+
+Esoteric types of power:
+- Heavy (Like a log submerged in cold water)
+- Steady/Unmoving
+- Shuddering
+- Quivering
+
 
 #Dexterity
 
