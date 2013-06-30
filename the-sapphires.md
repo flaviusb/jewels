@@ -56,10 +56,29 @@ Speed is basically just a matter of myelin, fast twitch muscle, reacting to thin
 #Power
 Power is not just plain strength; many of the techniques to build strength in the modern day do not build power. Deep power takes a very long time to gain, but is with you even as an old person or someone who is injured or unfit. It is in a large sense neuromuscular rather than just muscular, and is also to do with not building up muscles that act against each other, and learning how to let your muscles work with the least wasted strength.
 
-The arts that teach Power are Deep Stance Exaggerated Repetitive Drills, Performing Rubies and to a lesser extent Amethysts with and then without different forms of isometrics, performing fast drills to the point of exhaustion and then doing Foot-Calf jumping, duck-walking, burpees, and then doing the drills again, and Sinking-Striking drills.
+The arts that teach basic Power are Deep Stance Exaggerated Repetitive Drills, Performing Rubies and to a lesser extent Amethysts with and then without different forms of isometrics, performing fast drills to the point of exhaustion and then doing Foot-Calf jumping, duck-walking, burpees, and then doing the drills again, and Sinking-Striking drills.
 
+Power has several properties: where/how it is generated; where/how it is expressed; whether it leads, lags, is synchronised with, or is independent of the movement; and what characteristic temporal intensity pattern it has.
+
+Major types of power:
+- Cutting
+- Chopping
+- Piercing
+- Isolated/floating
+    Generated in a single large muscle group close to where it is expressed - ie generated in forearms and expressed through hands or fists.
+- Balanced/Clockwork
+    Dynamic tension, pivoting along an axis. Generated in the 'roots' and the 'axis', expressed through the axis.
+- Sinking
+    Uses the lowering of the center of gravity in synch with breath and movement; power is generated in the hara and expressed anywhere.
+- Heavy/Dead
+    Uses the pure deadweight of ...
+- Heavy/Like a log submerged in cold water
+- Explosive
+    No axis. Entire body, complex movement, split second timing of all muscles.
 
 #Dexterity
+
+Dexterity can be through of at its simplest as 'point control', the ability to place a part of your body or direct force with precision and intention.
 
 #Fluidity
 
