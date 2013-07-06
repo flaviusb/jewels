@@ -63,7 +63,7 @@ Power has several properties: where/how it is generated; where/how it is express
 Major types of power:
 - Cutting
 - Chopping
-- Piercing
+- Piercing/Drilling
 - Isolated/floating
     Generated in a single large muscle group close to where it is expressed - ie generated in forearms and expressed through hands or fists.
 - Balanced/Clockwork
