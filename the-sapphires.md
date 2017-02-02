@@ -2,7 +2,7 @@ Parts of a fight
 ================
 
 #Krieg
-The idea of 'Krieg' is adapted from the German school of medieval swordsmanship. It refers to the fighting that can only occur inside the inner Fence. Within Krieg there is no need to close, and there is no time for conscious thought. Krieg feels like how you might imaging speed chess, but it is actually more like speed trumps.
+The idea of 'Krieg' is adapted from the German school of medieval swordsmanship. It refers to the fighting that can only occur inside the inner Fence. Within Krieg there is no need to close, and there is no time for conscious thought. Krieg feels like how you might imagine speed chess, but it is actually more like speed trumps.
 
 The arts that teach Krieg are modified Qin Na and Rondel Dagger.
 
