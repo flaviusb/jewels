@@ -34,8 +34,8 @@ Turn behind cutting punch block
 
 #Balanced
 
-Piercing
+#Piercing
 
-Isolated
+#Isolated
 
-Explosive
+#Explosive
