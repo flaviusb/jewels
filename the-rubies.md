@@ -49,6 +49,10 @@ Palm push keeping hands within the small door (to block some kinds of kicks or s
 
 Soft hand grab and pull (to break energy or an arm).
 
+#Guarding
+
+
+
 #Breathing
 
 #Shouting
