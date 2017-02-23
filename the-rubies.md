@@ -51,7 +51,9 @@ Soft hand grab and pull (to break energy or an arm).
 
 #Guarding
 
-
+Guarding is not 'blocking'. It is a ruby, so it is pervasive.
+There are four broad aspects to look at in guarding - deflecting, interdicting, jamming up, and choosing how to take the blow.
+This can be seen in the position and micro movements in strikes and stances, as well as considered in the design of static guards.
 
 #Breathing
 
