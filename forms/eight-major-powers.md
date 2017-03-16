@@ -1,41 +1,32 @@
-#Sinking
+# Sinking
 
-Two hands press down
+* Two hands press down
+* Gathering leaves (stepping left) to crane whip and fend thing
+* Turn right; left sinking punch
 
-Gathering leaves (stepping left) to crane whip and fend thing
+# Chopping
 
-Turn right; left sinking punch
+* Pressing knife guard × 8
+* Double pressing knife guard
+* Downward face chop
+* Deep sea needle
 
-#Chopping
+# Heavy
 
-Pressing knife guard × 8
+* Heavy front kick
+* Monkey carries a mountain on his back
+* Turn into Monkey presses the sky
+* Twisting into eagle stoops
 
-Double pressing knife guard
+# Cutting
 
-Downward face chop
+* Four quarters cutting strong fist
+* Turn behind cutting punch block
 
-Deep sea needle
+# Balanced
 
-#Heavy
+# Piercing
 
-Heavy front kick
+# Isolated
 
-Monkey carries a mountain on his back
-
-Turn into Monkey presses the sky
-
-Twisting into eagle stoops
-
-#Cutting
-
-Four quarters cutting strong fist
-
-Turn behind cutting punch block
-
-#Balanced
-
-#Piercing
-
-#Isolated
-
-#Explosive
+# Explosive
