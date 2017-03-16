@@ -11,46 +11,33 @@ The 'styles' are a set of interpretations for the ur-moves; there are several 's
 
 Combine a set of 'shapes' with a 'style' and you have a concrete series of movements.
 
-##The Shapes
+## The Shapes
 
-Opening salute.
+* Opening salute.
+* Arms raise spread.
+* Arms push spread.
+* Arms raise together.
+* Arms push together.
+* Arms extended together push again.
+* Push singly.
+* Arms extended press lower.
+* Extended strike palm up.
+* Extended strike palm down.
+* Arms come together in an x low.
+* Arms come together in an x high.
+* Arms raise crossed fists up.
+* Hands press together. _(Palms together, or grasping a dragon orb linearly, or Eagle Claws crossed with wrists touching, or palms flat but slightly apart)._
 
-Arms raise spread.
+## The 'Styles'
 
-Arms push spread.
+**Shaolin** - external, hard, simple, linear, isometric but relaxed. Presses with palms and the top and bottom of arms, click clack.
 
-Arms raise together.
+**Strong** - external, hard, linear but extensional, isometric and tense. Presses with fists and edges of arms. No click clack; more like straight punches.
 
-Arms push together.
+**Circle** - internal, ...
 
-Arms extended together push again.
+**Dragon** - 
 
-Push singly.
+**White Crane** - . Raised palms, tiny circles, strikes with forearms, edges of wrists; various crane strikes.
 
-Arms extended press lower.
-
-Extended strike palm up.
-
-Extended strike palm down.
-
-Arms come together in an x low.
-
-Arms come together in an x high.
-
-Arms raise crossed fists up.
-
-Hands press together. (Palms together, or grasping a dragon orb linearly, or Eagle Claws crossed with wrists touching, or palms flat but slightly apart).
-
-##The 'Styles'
-
-Shaolin - external, hard, simple, linear, isometric but relaxed. Presses with palms and the top and bottom of arms, click clack.
-
-Strong - external, hard, linear but extensional, isometric and tense. Presses with fists and edges of arms. No click clack; more like straight punches.
-
-Circle - internal, ...
-
-Dragon - 
-
-White Crane - . Raised palms, tiny circles, strikes with forearms, edges of wrists; various crane strikes.
-
-Eagle - external, grabbing and manipulation. No presses, all rotations and manipulations. Lots of Eagle Claw.
+**Eagle** - external, grabbing and manipulation. No presses, all rotations and manipulations. Lots of Eagle Claw.
