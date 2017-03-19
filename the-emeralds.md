@@ -1,7 +1,7 @@
 Principles
 ==========
 
-#The Defeats
+# The Defeats
 
 - Defeat a circle with a line
 
@@ -15,7 +15,7 @@ Gentle palm push strike to the knee or inner thigh easily stops many kinds of ro
 
 - Defeat Formlessness with Form
 
-#The Strikes
+# The Strikes
 
 - Strike from emptiness
 
