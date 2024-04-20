@@ -19,7 +19,7 @@ The Rubies are Walking, Falling, Striking, Guarding, Breathing, Shouting, Ki, an
 
 ##The Amethysts
 
-The Amethysts are complex movements which can be used to fit together like a jigsaw, or inserted like a key into the correct space in a fight. They usually use the whole body, from stance through to fine position of limbs.
+The Amethysts are complex movements which can be used to fit together like a jigsaw, or inserted like a key into the correct space in a fight. They usually use the whole body, from stance through to fine position of limbs. Having an array of 'Application', differences in possible 'Interpretation' or 'Realisation', and the role of 'Intention' are also things that distinguish an Amethyst from sensible but not-Amethyst things like 'plays' or total nonsense like 'combos'.
 
 ##The Emeralds
 
